@@ -17,4 +17,4 @@
 
 ![](./assets/images/products-starter-ajax.jpg)
 
-### [Products AJAX](https://alisson-aguiars2k.github.io/products-starter-ajax/) 🔗
+### [Products AJAX](https://alisson-aguiars2k.github.io/products-ajax/) 🔗
